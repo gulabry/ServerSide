@@ -9,6 +9,8 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <!-- for overrides -->
     <link rel="stylesheet" href="css/styles.css">
+    <!-- so stupid people can use IE 6-8 -->
+    <script src="js/html5shiv.js"></script> 
   </head>
   <body>
     <!--#include virtual="inc/header.html" -->
