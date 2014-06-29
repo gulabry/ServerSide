@@ -9,9 +9,10 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <!-- for overrides -->
     <link rel="stylesheet" href="css/styles.css">
-    <!--#include virtual="inc/header.html" -->
   </head>
   <body>
+    <!--#include virtual="inc/header.html" -->
+    <h1>Today is <!--#echo var="DATE_LOCAL" --></h1>
     <div class="main">
     <ul class="nav nav-tabs">
       <li class="active"><a href="#">Home</a></li>
