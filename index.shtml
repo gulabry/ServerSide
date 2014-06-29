@@ -17,7 +17,7 @@
     <h1>Today is <!--#echo var="DATE_LOCAL" --></h1>
     <div class="main">
     <ul class="nav nav-tabs">
-      <li class="active"><a href="about.shtml">ABOUT</a></li>
+      <li class="active"><a href="about/about.shtml">ABOUT</a></li>
       <h1>SHOW ME THIS LINE, yo</h1>
     </ul> 
     </div>
