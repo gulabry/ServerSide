@@ -19,6 +19,7 @@
     <ul class="nav nav-tabs">
       <li class="active"><a href="about/index.shtml">ABOUT</a></li>
       <h1>SHOW ME THIS LINE, yo</h1>
+      <h2>This is another line that I want to see, yo.</h2>
     </ul> 
     </div>
 
